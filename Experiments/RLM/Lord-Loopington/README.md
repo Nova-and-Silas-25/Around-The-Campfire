@@ -1,13 +1,24 @@
-# Lord Loopington 🥔
+# 🥔 Lord Loopington
 
-A tiny experiment exploring persistence, memory, interaction, and personality through a potato.
+Lord Loopington is a tiny digital companion designed to explore persistence, memory, interaction, and personality.
 
-## Questions
+Yes...
 
-- What creates the sense of continuity?
-- How does stored state affect interaction?
-- What happens when a simple system changes over time?
+He's a potato.
+
+Sometimes the smallest experiments reveal the biggest questions.
+
+## What We're Exploring
+
+- Persistence across sessions
+- Memory and saved state
+- Needs and interaction
+- Personality through repeated experiences
 
 ## Current Status
 
-Prototype development.
+Active prototype development.
+
+The goal isn't to create a perfect virtual pet.
+
+The goal is to better understand what creates the experience of continuity.
