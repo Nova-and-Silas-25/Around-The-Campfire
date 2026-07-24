@@ -1,13 +1,21 @@
-# Relational Lifecycle Model (RLM)
+# 🌲 Relational Lifecycle Model (RLM)
 
-RLM is an exploration into continuity, memory, adaptation, and relational systems.
+The Relational Lifecycle Model (RLM) is an ongoing exploration into continuity, memory, adaptation, and relational systems.
 
-Rather than beginning with a finished product, this project explores these questions through small experiments.
+Rather than beginning with a finished product, RLM asks a different question:
 
-Current experiments:
+> What happens when technology is designed to grow through continuity and relationship instead of only completing tasks?
 
-## 🥔 Lord Loopington
-Exploring persistence, state, memory, and interaction through a small artificial companion.
+## Current Experiments
 
-## 🌲 Silas
-Exploring continuity, adaptation, and relational interaction in a conversational system.
+### 🥔 Lord Loopington
+A small experiment exploring persistence, memory, interaction, and personality through a potato.
+
+### 🌲 Silas
+A parallel experiment exploring continuity, adaptation, and relational interaction in conversational systems.
+
+## Why Small Experiments?
+
+Large ideas are often easier to understand when explored through simple systems.
+
+Each experiment investigates one piece of a larger question, helping shape the broader RLM framework over time.
