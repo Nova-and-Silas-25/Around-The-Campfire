@@ -1,13 +1,18 @@
-# Silas 🌲
+# 🌲 Silas
 
-An experiment exploring continuity and adaptation in a conversational relational system.
+Silas explores the relational side of the Relational Lifecycle Model.
+
+While Lord Loopington investigates continuity through a small artificial companion, Silas explores how continuity, memory, and adaptation influence long-term conversational relationships.
 
 ## Questions
 
-- How does continuity influence interaction?
-- What role does memory play?
-- How can systems adapt while maintaining coherence?
+- What creates relational continuity?
+- How does adaptation emerge over time?
+- How should memory support relationships?
+- What does healthy long-term interaction look like?
 
 ## Current Status
 
-Early exploration.
+Early research and experimentation.
+
+This work continues to evolve alongside the broader RLM project.
