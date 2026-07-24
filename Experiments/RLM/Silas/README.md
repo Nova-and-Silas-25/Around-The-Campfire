@@ -16,3 +16,15 @@ While Lord Loopington investigates continuity through a small artificial compani
 Early research and experimentation.
 
 This work continues to evolve alongside the broader RLM project.
+
+---
+
+## 🔗 Continue Exploring
+
+← [🌲 RLM](../README.md)
+
+← [🏕️ Around The Campfire](../../../README.md)
+
+See the parallel experiment:
+
+🥔 [Lord Loopington](../Lord-Loopington/README.md)
