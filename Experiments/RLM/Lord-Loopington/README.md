@@ -22,3 +22,15 @@ Active prototype development.
 The goal isn't to create a perfect virtual pet.
 
 The goal is to better understand what creates the experience of continuity.
+
+---
+
+## 🔗 Continue Exploring
+
+← [🌲 RLM](../README.md)
+
+← [🏕️ Around The Campfire](../../../README.md)
+
+See the parallel experiment:
+
+🌲 [Silas](../Silas/README.md)
